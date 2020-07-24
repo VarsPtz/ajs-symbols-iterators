@@ -41,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VarsPtz/ajs-symbols-iterators.git.git"
+    "url": "git+https://github.com/VarsPtz/ajs-symbols-iterators.git"
   },
   "keywords": [
     "Iterators"
